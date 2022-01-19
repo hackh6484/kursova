@@ -1,0 +1,57 @@
+body{background-color:PapayaWhip;}
+header{background-color:#B22222; width:100%; height:51px; color:black; } 
+
+
+
+.dropbtn {
+  background-color:#DC143C;
+  color:white;
+  padding:16px;
+  font-size:16px;
+  border:none;
+}
+
+.dropdown {
+  position:relative;
+  display:inline-block;
+}
+
+.dropdown-content {
+  display:none;
+  position:absolute;
+  background-color:#f1f1f1;
+  min-width:160px;
+  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index:1;
+}
+
+.dropdown-content a {
+  color:black;
+  padding:12px 16px;
+  text-decoration:none;
+  display:block;
+}
+
+.dropdown-content a:hover{background-color:#ddd;}
+
+.dropdown:hover .dropdown-content{display:block;}
+
+.dropdown:hover .dropbtn{background-color:#DC143C;}
+ 
+.pass{  background-color:#DC143C;
+  color:white;
+  padding:16px;
+  font-size:16px;
+  border:none; margin-left:87%;
+ text-decoration:none;
+ text-align:right;
+  }
+footer{background-color:#B22222; width:100%; height:51px; color:white;margin-top:121%}
+.article{ margin-top:2%;}
+img{width:240px; height:300px; border:px solid #FC0; }
+figure{float:right; border:1px solid #000000; padding:7px;
+margin:10px 0 5px 5px; background-color:#F5F5DC; margin-left:180px;}
+.hol{border:none; width:74%; margin-left:25%; background-color:lightYellow; position:absolute;}
+.men{color:Brown;  }
+a{text-decoration:none;}
+.bord{width:25%}
